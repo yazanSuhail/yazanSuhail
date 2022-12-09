@@ -7,7 +7,7 @@
 - ❓ Ask me about anything related to Reactjs and Angularjs stack and related technologies  
   
 
-- ⚡ Fun fact: My github is kinda empty because I code for others 24/7     ¯\_(ツ)_/¯
+- ⚡ Fun fact: My github is kinda empty because I code for others 24/7   ;  ¯\_(ツ)_/¯
   
 
 <br/>  
