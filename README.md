@@ -1,6 +1,3 @@
-
-  
-
 ### <div align="center">I'm Yazan, a full-time full-stack developer 👨‍💻 working remotely since 2019!</div>  
   
 
@@ -45,7 +42,15 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
 
 
 </td></tr></table>  
