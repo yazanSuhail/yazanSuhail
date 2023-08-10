@@ -44,7 +44,7 @@
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 
-<a href="https://remix.run" target="_blank"><img style="margin: 10px" src="[https://drive.google.com/drive/u/0/folders/1pbHnJqg8Y1ATs0Oi8gARH7wccJGv4I2c](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redusers.com%2Fnoticias%2Fpublicaciones%2Fremix-framework-react%2F&psig=AOvVaw2Bh6FbMpsCYyxvPgTvTWZL&ust=1691786866548000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj5u6v70oADFQAAAAAdAAAAABAQ)" alt="Java" height="50" /></a>  
+<a href="https://remix.run" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redusers.com%2Fnoticias%2Fpublicaciones%2Fremix-framework-react%2F&psig=AOvVaw2Bh6FbMpsCYyxvPgTvTWZL&ust=1691786866548000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj5u6v70oADFQAAAAAdAAAAABAQ)" alt="Remix" height="50" /></a>  
   
 </div>
 
