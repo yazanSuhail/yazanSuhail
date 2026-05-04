@@ -62,6 +62,21 @@ In addition, I am able to build partnerships at work, bringing people together i
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <br />
 <a href="https://remix.run" target="_blank">Remix.run</a>  
+  <a href="https://www.ruby-lang.org/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original.svg" alt="Ruby" height="50" />
+</a>
+
+<a href="https://rubyonrails.org/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails.png" alt="Ruby on Rails" height="50" />
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+</a>
+
+<a href="https://redis.io/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+</a>
 </div>
 
 </td></tr></table>  
