@@ -1,95 +1,111 @@
+### <div align="center">I'm Yazan, a full-time full-stack developer 👨‍💻 working remotely since 2019!</div>  
+
 <div align="center">
-
-# Yazan Alzubi
-
-**Software Engineer | Full-Stack Developer**
-
-São Paulo, Brazil
-Working remotely since 2019
-
+Software Engineer at <b>GetScale</b> · Based in São Paulo, Brazil  
 </div>
 
 ---
+
+- 🌱 I’m currently learning (Kafka and ruby on rails)  
+
+- ❓ Ask me about anything related to Reactjs and Angularjs stack and related technologies  
+
+- ⚡ Fun fact: I speak English, Português and Arabic    ¯¯\_(ツ)_/¯¯
+
+- 🎓 Information Technology graduate from Balqa Applied University (BAU)
+
+- 💼 Currently working as a Software Engineer at GetScale
+
+- 🧠 I’m motivated, adaptable, fast-learning, and always seeking new challenges
+
+- 🤝 I enjoy building strong partnerships at work and bringing people together to accomplish great things
+
+<br/>  
 
 ## About Me
 
-Full-stack software engineer with a strong problem-solving approach and experience working in fast-paced environments. Focused on building scalable web applications and collaborating across teams to deliver reliable solutions.
+A motivated, adaptable and fast learner Information Technology graduate who is always seeking new knowledge and challenges.
 
-Adaptable, methodical, and comfortable operating under pressure. Known for bridging gaps between people and systems to drive execution.
+I am a resilient person who has a methodical, problem-solving approach to work, and can manage well under extreme pressure.
 
----
+In addition, I am able to build partnerships at work, bringing people together in order to accomplish great things!
 
-## Current Focus
+<br/>  
 
-* Working at **GetScale**
-* Exploring **Kafka** and **Ruby on Rails**
-* Improving system design and scalability practices
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
----
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<br />
+<a href="https://remix.run" target="_blank">Remix.run</a>  
+</div>
 
-## Tech Stack
+</td></tr></table>  
 
-### Frontend
+<br/>  
 
-React · Angular · Vue · Next.js
-TypeScript · JavaScript
-HTML · CSS · Sass
-Material UI · Styled Components
-
-### Backend & Infrastructure
-
-Node.js · Java
-Kafka
-Docker · AWS
-Terraform
-
-### DevOps & Tools
-
-Git · Jenkins · Grafana
-Linux
-
-### Other
-
-Figma
-
----
-
-## Languages
-
-* English
-* Portuguese
-* Arabic
-
----
-
-## Links
-
+## Connect with me  
 <div align="center">
-
 <a href="https://github.com/yazanSuhail" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-
 <a href="https://codepen.io/yazan21233" target="_blank">
-<img src="https://img.shields.io/badge/Codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" />
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-
 <a href="https://www.linkedin.com/in/yazan-alzubi-023603204/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
-</div>
+<br/>  
 
----
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazanSuhail&hide_border=true&layout=compact" align="center" /></div>  
 
-## GitHub Stats
+<br/>  
+
+## Recent Blog Posts  
+
+<br/>  
+
+<br/>  
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazanSuhail&hide_border=true&layout=compact" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=yazanSuhail&&style=flat-square" align="center" />
+</div>  
 
----
+<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=yazanSuhail&style=flat-square" />
-</div>
+<table><tr><td valign="top" width="50%">
+
+</td><td valign="top" width="50%">
+
+</td></tr></table>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
